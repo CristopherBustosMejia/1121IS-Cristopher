@@ -1,0 +1,12 @@
+var num1 = 50;
+var num2 = 10;
+var suma = num1 + num2;
+var resta = num1 - num2;
+var multiplicacion = num1 * num2;
+var division_1 = num1/num2;
+var division_2 = num2/num1;
+console.log("Suma: "+suma);
+console.log("Resta: "+resta);
+console.log("Multiplicacion: "+multiplicacion);
+console.log("Division 1: "+division_1);
+console.log("Division 2: "+division_2);
